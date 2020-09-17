@@ -1,13 +1,12 @@
-# Express Boilerplate
+# Video Demo
 
-Este proyecto lo puedes utilizar como base para construir tus sistemas.
-
-El proyecto ya viene configurado con algunos paquetes comunes que utilizamos.
+https://youtu.be/ALVrklTDlqQ
 
 ## Instalación
 
 ```shell
 npm install
+knex migrate:latest
 ```
 
 ## Ejecución
